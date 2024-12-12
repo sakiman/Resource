@@ -8,7 +8,6 @@
 
 ## Personal Static Web
 - [Sankalp Static Web Site](http://twtpeoad002/sankalp/)
-- **[靜態網頁放置目錄] \\\\twtpeoad002\SGS_WEB\sankalp**
 
 ## JSON
 - [JSON Edior Online](https://jsoneditoronline.org/) **線上編輯 JSON 和美化排版**
