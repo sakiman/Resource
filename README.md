@@ -21,3 +21,6 @@
 ## favicon.ico
 - [RealFaviconGenerator](https://realfavicongenerator.net/)
 - [Favicon.io](https://favicon.io/)
+
+## SVG
+- [svgrepo](https://www.svgrepo.com/vectors/github/)
