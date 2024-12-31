@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Markdown-555?logo=markdown)
 
 ## Personal Static Web
-- [Sankalp Static Web Site](http://twtpeoad002/sankalp/entrance/)
+- [Sankalp Static Web Site](http://twtpeoad002/sankalp/)
 
 ## JSON
 - [JSON Edior Online](https://jsoneditoronline.org/) **線上編輯 JSON 和美化排版**
