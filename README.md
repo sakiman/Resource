@@ -40,7 +40,7 @@ git remote set-url --add --push origin http://newpath/iloveyou.git
 ```
 方式二，在 Source Tree 裡操作，直接修改 Git-A config：  
 1. 點擊 `Settings`  
-    ![](./img/soucetree_repo_settings.png)
+    ![](./img/soucetree_repo_settings.png)  
     ![](./img/soucetree_repo_settings_repository_settings.png)
 2. 點擊 `Edit Config FIle...` 加入 pushurl `http://path/iloveyou.git` 和 `http://newpath/iloveyou.git`  
     ![](./img/soucetree_repo_config.png)
