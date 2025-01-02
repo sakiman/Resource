@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Shields.io-555?logo=shieldsdotio)
 ![](https://img.shields.io/badge/Markdown-555?logo=markdown)
 
-## 目錄.
+## 目錄
 
 [Git](#git)  
 [Personal Static Web](#personal-static-web)  
