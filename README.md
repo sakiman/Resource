@@ -31,7 +31,6 @@ git remote -v
 輸出應類似於：
 ```Git
 origin  http://path/iloveyou.git (fetch)
-origin  http://path/iloveyou.git (push)
 ```
 設定多個 `remote.push`（自動推送）  
 方式一，使用 bash：
@@ -52,7 +51,6 @@ git remote -v
 輸出應類似於：
 ```Git
 origin  http://path/iloveyou.git (fetch)
-origin  http://path/iloveyou.git (push)
 origin  http://newpath/iloveyou.git (push)
 ```
 推送分支方式一，使用 bash：
