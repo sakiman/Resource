@@ -33,7 +33,7 @@ git remote -v
 origin  http://path/iloveyou.git (fetch)
 ```
 設定多個 `remote.push`（自動推送）  
-方式一，使用 bash：  `留意，要將原來源 repo 也加進去`
+方式一，使用 bash：  **`留意，要將原來源 repo 也加進去`**
 ```bash
 git remote set-url --add --push origin http://path/iloveyou.git
 git remote set-url --add --push origin http://newpath/iloveyou.git
