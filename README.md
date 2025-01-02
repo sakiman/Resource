@@ -25,38 +25,40 @@
     - 路徑：`http://newpath/iloveyou.git`
 
 執行以下命令，確認遠端路徑是否正確：
-```Git
+```bash
 git remote -v
 ```
 輸出應類似於：
-```Git
+```bash
 origin  http://path/iloveyou.git (fetch)
 ```
 設定多個 `remote.push`（自動推送）  
-方式一，使用 bash：
-```Git
+方式一，使用 bash：  `留意，要將原來源 repo 也加進去`
+```bash
+git remote set-url --add --push origin http://path/iloveyou.git
 git remote set-url --add --push origin http://newpath/iloveyou.git
 ```
 方式二，在 Source Tree 裡操作，直接修改 Git-A config：  
 1. 點擊 `Settings`  
     ![](./img/soucetree_repo_settings.png)
     ![](./img/soucetree_repo_settings_repository_settings.png)
-2. 點擊 `Edit Config FIle...` 加入新的 pushurl `http://newpath/iloveyou.git`  
+2. 點擊 `Edit Config FIle...` 加入 pushurl `http://path/iloveyou.git` 和 `http://newpath/iloveyou.git`  
     ![](./img/soucetree_repo_config.png)
 
 再次確認遠端路徑：
-```Git
+```bash
 git remote -v
 ```
 輸出應類似於：
-```Git
+```bash
 origin  http://path/iloveyou.git (fetch)
+origin  http://path/iloveyou.git (push)
 origin  http://newpath/iloveyou.git (push)
 ```
 推送分支方式一，使用 bash：
 - `--all`：推送所有分支到遠端
 - `--tags`：推送所有標籤到遠端
-```Git
+```bash
 git push origin -all -tags
 ```
 推送分支方式二，在 Source Tree 裡操作：
