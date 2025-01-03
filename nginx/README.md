@@ -17,6 +17,7 @@ For Windows：
 ```bash
 chcp 65001
 @echo off
+:: Nginx 所在目錄 (可自行替換)
 set nginx_path=C:\Users\Sankalp_Chang\Downloads\_Python\__Sankalp__\nginx
 
 :: 切換到 Nginx 目錄
