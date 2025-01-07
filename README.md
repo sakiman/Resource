@@ -16,7 +16,7 @@
 [Markdown](#markdown)  
 [favicon.ico](#faviconico)  
 [SVG](#svg)  
-[Test](#test)
+[Azure Latency Test](#azure-latency-test)
 
 ## 📚Git
 
@@ -115,7 +115,7 @@ git push origin main
 - [svgrepo](https://www.svgrepo.com/vectors/github/)
 
 ## Azure Latency Test
-- 機房
+### 機房
   ### `Japan`
   - Japan East - 東京 Tokyo
     - 服務於日本東部的用戶，提供高可用性和低延遲的雲端服務。
@@ -130,7 +130,7 @@ git push origin main
   - Southeast Asia - 新加坡
     - 覆蓋新加坡、馬來西亞、印尼、泰國、越南及其他東南亞地區。
     - 也常被台灣的用戶選擇，因為地理位置接近且具備低延遲優勢。
-- 測試延遲服務
+### 測試延遲服務
   ### `Latency Speed Test Web Site`
   - [Azure Speed Test](https://www.azurespeed.com/Azure/Latency)
     ![](./img/azure_speed_test.png)
