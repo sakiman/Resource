@@ -10,6 +10,7 @@
 
 [Git](#git)  
 [Git Push Via Set pushurl 一鍵 push](#git-push-via-set-pushurl-一鍵-push)  
+[Git Push Via add remote 增加遠端 remote](#git-push-via-add-remote-增加遠端-remote)  
 [Personal Static Web](#personal-static-web)  
 [Json](#json)  
 [Markdown](#markdown)  
@@ -112,3 +113,26 @@ git push origin main
 
 ## 🖼️SVG
 - [svgrepo](https://www.svgrepo.com/vectors/github/)
+
+## Azure Latency Test
+- 機房
+  ### `Japan`
+  - Japan East - 東京 Tokyo
+    - 服務於日本東部的用戶，提供高可用性和低延遲的雲端服務。
+  - Japan West - 大阪 Osaka
+    - 服務於日本西部地區，通常作為日本東部的備援機房。
+  ### `Korea`
+  - Korea Central - 首爾 Seoul
+    - 服務於韓國主要的經濟和科技中心，適合對低延遲和資料主權有需求的用戶。
+  - Korea South - 釜山 Busan
+    - 服務於韓國南部地區，用於分散負載和提供備援支持。
+  ### `Singpore`
+  - Southeast Asia - 新加坡
+    - 覆蓋新加坡、馬來西亞、印尼、泰國、越南及其他東南亞地區。
+    - 也常被台灣的用戶選擇，因為地理位置接近且具備低延遲優勢。
+- 測試延遲服務
+  ### `Latency Speed Test Web Site`
+  - [Azure Speed Test](https://www.azurespeed.com/Azure/Latency)
+    ![](./img/azure_speed_test.png)
+  - [Azure Speed Test 2.0](https://azurespeedtest.azurewebsites.net/)
+    ![](./img/azure_speed_test_2.png)
