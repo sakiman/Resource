@@ -8,15 +8,15 @@
 
 ## 目錄
 
-[Git](#git)  
+[Git](#📚git)  
 [Git Push Via Set pushurl 一鍵 push](#git-push-via-set-pushurl-一鍵-push)  
 [Git Push Via add remote 增加遠端 remote](#git-push-via-add-remote-增加遠端-remote)  
-[Personal Static Web](#personal-static-web)  
-[Json](#json)  
-[Markdown](#markdown)  
-[favicon.ico](#faviconico)  
-[SVG](#svg)  
-[Azure Latency Test](#azure-latency-test)
+[Personal Static Web](#🌐personal-static-web)  
+[Json](#📦json)  
+[Markdown](#🔤markdown)  
+[favicon.ico](#🎨faviconico)  
+[SVG](#🖼️svg)  
+[Azure Latency Test](#☁️azure-latency-test)
 
 ## 📚Git
 
@@ -114,7 +114,7 @@ git push origin main
 ## 🖼️SVG
 - [svgrepo](https://www.svgrepo.com/vectors/github/)
 
-## Azure Latency Test
+## ☁️Azure Latency Test
 ### 機房
   ### `Japan`
   - Japan East - 東京 Tokyo
