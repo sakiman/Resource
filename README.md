@@ -1,4 +1,4 @@
-# SGS.OAD.Resource
+# 常用資源
 
 ![](https://img.shields.io/badge/Tool-Resource-orange)
 ![](https://img.shields.io/badge/JSON-555?logo=json)
