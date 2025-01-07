@@ -132,7 +132,7 @@ git push origin main
     - 也常被台灣的用戶選擇，因為地理位置接近且具備低延遲優勢。
 ### 測試延遲服務
   ### `Latency Speed Test Web Site`
-  - [Azure Speed Test](https://www.azurespeed.com/Azure/Latency)
+  - **[Azure Speed Test](https://www.azurespeed.com/Azure/Latency)**
     ![](./img/azure_speed_test.png)
-  - [Azure Speed Test 2.0](https://azurespeedtest.azurewebsites.net/)
+  - **[Azure Speed Test 2.0](https://azurespeedtest.azurewebsites.net/)**
     ![](./img/azure_speed_test_2.png)
