@@ -109,16 +109,17 @@ git push origin main
 - [Simple-icons badge slug](https://github.com/simple-icons/simple-icons/blob/master/slugs.md) - **Markdown 檔 Badge 徽章效果清單**
 
 ## favicon.ico
-- [RealFaviconGenerator](https://realfavicongenerator.net/)
-- [Favicon.io](https://favicon.io/)
+- **<a href="https://realfavicongenerator.net/" target="_blank" rel="noopener noreferrer" bold="normal">RealFaviconGenerator</a>**
+- **<a href="https://favicon.io/" target="_blank" rel="noopener noreferrer" bold="normal">Favicon.io</a>**
 
 ## SVG
-- [svgrepo](https://www.svgrepo.com/vectors/github/)
+- **<a href="https://www.svgrepo.com/vectors/github/" target="_blank" rel="noopener noreferrer" bold="normal">svgrepo</a>**
 
 ## Azure
 
 ### 費用
-**[Azure 定價計算機](https://azure.microsoft.com/zh-tw/pricing/calculator/)**
+**<a href="https://azure.microsoft.com/zh-tw/pricing/calculator/" target="_blank" rel="noopener noreferrer" bold="normal">Azure 定價計算機</a>**
+
 
 ### 機房
   ### `Japan`
