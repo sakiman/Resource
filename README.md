@@ -15,7 +15,9 @@
 [Markdown](#markdown)  
 [favicon.ico](#faviconico)  
 [SVG](#svg)  
-[Azure Latency Test](#azure-latency-test)
+[Azure 費用](#費用)  
+[Azure 機房](#機房)  
+[Azure 測試延遲服務](#測試延遲服務)  
 
 ## Git
 
@@ -113,7 +115,10 @@ git push origin main
 ## SVG
 - [svgrepo](https://www.svgrepo.com/vectors/github/)
 
-## Azure Latency Test
+## Azure
+
+### 費用
+**[Azure 定價計算機](https://azure.microsoft.com/zh-tw/pricing/calculator/)**
 
 ### 機房
   ### `Japan`
@@ -126,10 +131,25 @@ git push origin main
     - 服務於韓國主要的經濟和科技中心，適合對低延遲和資料主權有需求的用戶。
   - Korea South - 釜山 Busan
     - 服務於韓國南部地區，用於分散負載和提供備援支持。
-  ### `Singpore`
+  ### `Singapore`
   - Southeast Asia - 新加坡
     - 覆蓋新加坡、馬來西亞、印尼、泰國、越南及其他東南亞地區。
     - 也常被台灣的用戶選擇，因為地理位置接近且具備低延遲優勢。
+  ### `Hong Kong`
+  - East Asia - 香港
+    - 針對香港、台灣及東亞其他地區的用戶。
+    - 屬於 Azure 全球運營的一部分，與 Azure 全球其他機房無縫整合。
+  ### `China`
+  - China Azure - 大陸 `由`**`世紀互聯 (21Vianet)`**`獨家營運，完全獨立於 Azure 全球運營，僅服務於中國用戶，並遵守中國本地法規。 (所以在 Azure 定價官網不會有 China 選項)`
+    - China North - 北京
+      - 主要覆蓋中國北部地區，包括北京、天津、河北等省市。
+    - China North 2 - 河北
+      - 為中國北部區域提供額外的容量與冗餘。
+    - China East - 上海
+      - 服務於中國東部地區，包括上海、江蘇、浙江等地。
+    - China East 2 - 江蘇省南京市
+      - 進一步擴展中國東部地區的雲端容量與服務。
+
 ### 測試延遲服務
   ### `Latency Speed Test Web Site`
   - **[Azure Speed Test](https://www.azurespeed.com/Azure/Latency)**
