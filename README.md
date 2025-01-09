@@ -8,17 +8,16 @@
 
 ## 目錄
 
-[Git](#📚git)  
 [Git Push Via Set pushurl 一鍵 push](#git-push-via-set-pushurl-一鍵-push)  
 [Git Push Via add remote 增加遠端 remote](#git-push-via-add-remote-增加遠端-remote)  
-[Personal Static Web](#🌐personal-static-web)  
-[Json](#📦json)  
-[Markdown](#🔤markdown)  
-[favicon.ico](#🎨faviconico)  
-[SVG](#🖼️svg)  
-[Azure Latency Test](#☁️azure-latency-test)
+[Personal Static Web](#personal-static-web)  
+[Json](#json)  
+[Markdown](#markdown)  
+[favicon.ico](#faviconico)  
+[SVG](#svg)  
+[Azure Latency Test](#azure-latency-test)
 
-## 📚Git
+## Git
 
 ### 同步 repo
 **`僅適用目標 repo 為全新空的 repo`**
@@ -95,26 +94,27 @@ git push origin main
     ![](./img/soucetree_repo_settings_repository_settings.png)
   2. 接著在 Source Tree 中 Push 時，手動選擇 repo
 
-## 🌐Personal Static Web
+## Personal Static Web
 - [Sankalp Static Web Site](http://twtpeoad002/sankalp/)
 
-## 📦JSON
+## JSON
 - [JSON Edior Online](https://jsoneditoronline.org/) **線上編輯 JSON 和美化排版**
 
-## 🔤Markdown
+## Markdown
 - [Markdown](https://markdown.tw/)
 - [Mermaid](https://mermaid.js.org/) - **Markdown 裡放圖表**
 - [Shields.io](https://shields.io/) - **Markdown 檔 Badge 徽章效果 API**
 - [Simple-icons badge slug](https://github.com/simple-icons/simple-icons/blob/master/slugs.md) - **Markdown 檔 Badge 徽章效果清單**
 
-## 🎨favicon.ico
+## favicon.ico
 - [RealFaviconGenerator](https://realfavicongenerator.net/)
 - [Favicon.io](https://favicon.io/)
 
-## 🖼️SVG
+## SVG
 - [svgrepo](https://www.svgrepo.com/vectors/github/)
 
-## ☁️Azure Latency Test
+## Azure Latency Test
+
 ### 機房
   ### `Japan`
   - Japan East - 東京 Tokyo
