@@ -10,7 +10,6 @@
 
 [Git Push Via Set pushurl 一鍵 push](#git-push-via-set-pushurl-一鍵-push)  
 [Git Push Via add remote 增加遠端 remote](#git-push-via-add-remote-增加遠端-remote)  
-[Personal Static Web](#personal-static-web)  
 [Json](#json)  
 [Markdown](#markdown)  
 [favicon.ico](#faviconico)  
@@ -96,17 +95,14 @@ git push origin main
     ![](./img/soucetree_repo_settings_repository_settings.png)
   2. 接著在 Source Tree 中 Push 時，手動選擇 repo
 
-## Personal Static Web
-- [Sankalp Static Web Site](http://twtpeoad002/sankalp/)
-
 ## JSON
-- [JSON Edior Online](https://jsoneditoronline.org/) **線上編輯 JSON 和美化排版**
+- **<a href="https://jsoneditoronline.org/" target="_blank" rel="noopener noreferrer" bold="normal">JSON Edior Online</a>** - **線上編輯 JSON 和美化排版**
 
 ## Markdown
-- [Markdown](https://markdown.tw/)
-- [Mermaid](https://mermaid.js.org/) - **Markdown 裡放圖表**
-- [Shields.io](https://shields.io/) - **Markdown 檔 Badge 徽章效果 API**
-- [Simple-icons badge slug](https://github.com/simple-icons/simple-icons/blob/master/slugs.md) - **Markdown 檔 Badge 徽章效果清單**
+- **<a href="https://markdown.tw/" target="_blank" rel="noopener noreferrer" bold="normal">Markdown</a>**
+- **<a href="https://mermaid.js.org/" target="_blank" rel="noopener noreferrer" bold="normal">Mermaid</a>** - **Markdown 裡放圖表**
+- **<a href="https://shields.io/" target="_blank" rel="noopener noreferrer" bold="normal">Shields.io</a>** - **Markdown 檔 Badge 徽章效果 API**
+- **<a href="https://github.com/simple-icons/simple-icons/blob/master/slugs.md" target="_blank" rel="noopener noreferrer" bold="normal">Simple-icons badge slug</a>** - **Markdown 檔 Badge 徽章效果清單**
 
 ## favicon.ico
 - **<a href="https://realfavicongenerator.net/" target="_blank" rel="noopener noreferrer" bold="normal">RealFaviconGenerator</a>**
@@ -153,7 +149,7 @@ git push origin main
 
 ### 測試延遲服務
   ### `Latency Speed Test Web Site`
-  - **[Azure Speed Test](https://www.azurespeed.com/Azure/Latency)**
+  - **<a href="https://www.azurespeed.com/Azure/Latency" target="_blank" rel="noopener noreferrer" bold="normal">Azure Speed Test</a>** **<- 點擊左方連結開啟測試網站**
     ![](./img/azure_speed_test.png)
-  - **[Azure Speed Test 2.0](https://azurespeedtest.azurewebsites.net/)**
+  - **<a href="https://azurespeedtest.azurewebsites.net/" target="_blank" rel="noopener noreferrer" bold="normal">Azure Speed Test 2.0</a>** **<- 點擊左方連結開啟測試網站**
     ![](./img/azure_speed_test_2.png)
