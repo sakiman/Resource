@@ -100,9 +100,18 @@ git push origin main
 
 ## Markdown
 - **<a href="https://markdown.tw/" target="_blank" rel="noopener noreferrer" bold="normal">Markdown</a>**
-- **<a href="https://mermaid.js.org/" target="_blank" rel="noopener noreferrer" bold="normal">Mermaid</a>** - **Markdown 裡放圖表**
 - **<a href="https://shields.io/" target="_blank" rel="noopener noreferrer" bold="normal">Shields.io</a>** - **Markdown 檔 Badge 徽章效果 API**
 - **<a href="https://github.com/simple-icons/simple-icons/blob/master/slugs.md" target="_blank" rel="noopener noreferrer" bold="normal">Simple-icons badge slug</a>** - **Markdown 檔 Badge 徽章效果清單**
+
+## Mermaid
+`美麗的圖表且可置入進 Markdown`
+- **<a href="https://mermaid.js.org/" target="_blank" rel="noopener noreferrer" bold="normal">Mermaid org</a>** - **Mermaid 官網**
+- **<a href="https://mermaid.live/" target="_blank" rel="noopener noreferrer" bold="normal">Mermaid Live</a>** - **線上編輯 Mermaid**
+  - 不需加入引用關鍵字 **\```mermaid** 和 **\```** 結尾
+- **<a href="https://paji-toolset.net/zh-TW/mermaid-editor" target="_blank" rel="noopener noreferrer" bold="normal">Paji Mermaid Live</a>** - **線上編輯 Mermaid**
+  - 不需加入引用關鍵字 **\```mermaid** 和 **\```** 結尾
+- **<a href="https://stackedit.io/" target="_blank" rel="noopener noreferrer" bold="normal">Stackedit.io</a>** - **線上編輯 Mermaid，但不支援全型符號**
+  - 要加入引用關鍵字 **\```mermaid** 和 **\```** 結尾
 
 ## favicon.ico
 - **<a href="https://realfavicongenerator.net/" target="_blank" rel="noopener noreferrer" bold="normal">RealFaviconGenerator</a>**
